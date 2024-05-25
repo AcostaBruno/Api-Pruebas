@@ -1,0 +1,146 @@
+ - Recibido registro de usuario: 
+ - Error con la operacion con el endpoint: http://localhost:82/endpoint
+ - Recibido registro de usuario: 
+12-05-2024 05:11:00 - Solicitud recibida *
+12-05-2024 05:14:40 - Solicitud recibida *
+12-05-2024 05:14:54 - Solicitud recibida *
+12-05-2024 05:17:09 - Solicitud recibida *
+12-05-2024 05:17:09 - Solicitud recibida 1
+12-05-2024 05:18:45 - Solicitud recibida *
+12-05-2024 05:18:45 - Solicitud recibida 1
+12-05-2024 05:19:44 - Solicitud recibida *
+12-05-2024 05:19:44 - Solicitud recibida 1
+12-05-2024 05:19:44 - Solicitud recibida 1
+12-05-2024 05:21:00 - Solicitud recibida *
+12-05-2024 05:21:00 - Solicitud recibida 1
+2212-05-2024 05:22:52 - Solicitud recibida *
+12-05-2024 05:22:52 - Solicitud recibida 1
+22335512-05-2024 05:22:52 - Usuario invalido
+6612-05-2024 05:24:34 - Solicitud recibida *
+12-05-2024 05:24:34 - Solicitud recibida 1
+22
+33
+55
+12-05-2024 05:24:34 - Usuario invalido
+66
+12-05-2024 05:26:43 - Solicitud recibida 1
+12-05-2024 05:26:43 - Usuario invalido
+66
+12-05-2024 05:26:43 - Datos de regreso
+12-05-2024 05:26:51 - Solicitud recibida 1
+12-05-2024 05:26:51 - Usuario invalido
+66
+12-05-2024 05:26:51 - Datos de regreso
+12-05-2024 05:27:44 - Solicitud recibida 1
+12-05-2024 05:27:44 - Usuario invalido
+66
+12-05-2024 05:27:44 - Datos de regreso http://frontend/index.php
+12-05-2024 05:29:59 - Solicitud recibida 1
+12-05-2024 05:29:59 - Usuario invalido
+66
+12-05-2024 05:30:00 - Datos de regreso http://frontend/index.php  Array 
+12-05-2024 05:30:41 - Solicitud recibida 1
+12-05-2024 05:30:41 - Usuario invalido
+66
+12-05-2024 05:30:41 - Datos de regreso http://frontend/index.php   
+12-05-2024 05:32:12 - Solicitud recibida 1
+12-05-2024 05:32:12 - Usuario invalido
+66
+12-05-2024 05:32:12 - Datos de regreso http://frontend/index.php   
+12-05-2024 05:32:57 - Solicitud recibida 1
+12-05-2024 05:32:57 - Usuario invalido
+66
+12-05-2024 05:32:57 - Datos de regreso http://frontend/index.php   
+12-05-2024 05:35:30 - Solicitud recibida 1
+12-05-2024 05:35:30 - Usuario invalido
+12-05-2024 05:35:30 - Error con la operacion con el endpoint: 
+12-05-2024 05:35:36 - Solicitud recibida 1
+12-05-2024 05:35:36 - Usuario invalido
+12-05-2024 05:35:36 - Error con la operacion con el endpoint: 
+12-05-2024 05:38:04 - Solicitud recibida 1
+12-05-2024 05:38:04 - Usuario invalido
+12-05-2024 05:38:37 - Solicitud recibida 1
+12-05-2024 05:38:37 - Usuario invalido
+12-05-2024 05:39:35 - Solicitud recibida 1
+12-05-2024 05:39:35 - Usuario invalido
+12-05-2024 05:43:15 - Solicitud recibida 1
+12-05-2024 05:43:15 - Usuario invalido
+12-05-2024 05:46:56 - Solicitud recibida 1
+12-05-2024 05:46:56 - Usuario invalido
+12-05-2024 05:48:18 - Solicitud recibida 1
+12-05-2024 05:48:18 - Usuario invalido
+12-05-2024 05:48:22 - Solicitud recibida 1
+12-05-2024 05:48:22 - Usuario invalido
+12-05-2024 05:48:40 - Solicitud recibida 1
+12-05-2024 05:48:40 - Usuario invalido
+12-05-2024 05:49:05 - Solicitud recibida 1
+12-05-2024 05:49:05 - Usuario invalido
+12-05-2024 05:49:07 - Solicitud recibida 1
+12-05-2024 05:49:07 - Usuario invalido
+12-05-2024 05:49:39 - Solicitud recibida 1
+12-05-2024 05:49:39 - Usuario invalido
+12-05-2024 05:49:39 - wsgfefsefwef
+12-05-2024 05:50:57 - Solicitud recibida 1
+12-05-2024 05:50:57 - Usuario invalido
+12-05-2024 05:50:57 - wsgfefsefwef
+12-05-2024 05:50:59 - Solicitud recibida 1
+12-05-2024 05:50:59 - Usuario invalido
+12-05-2024 05:50:59 - wsgfefsefwef
+12-05-2024 05:51:02 - Solicitud recibida 1
+12-05-2024 05:51:02 - Usuario invalido
+12-05-2024 05:51:02 - wsgfefsefwef
+12-05-2024 05:53:15 - Solicitud recibida 1
+12-05-2024 05:53:15 - Usuario invalido
+12-05-2024 05:53:15 - Error: file_get_contents(http://frontend/comunicacion.php): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+
+12-05-2024 05:57:23 - Solicitud recibida 1
+12-05-2024 05:57:23 - Usuario invalido
+12-05-2024 06:07:32 - Solicitud recibida 1
+12-05-2024 06:07:32 - Usuario invalido
+12-05-2024 06:08:14 - Solicitud recibida 1
+12-05-2024 06:08:14 - Usuario invalido
+12-05-2024 06:09:46 - Solicitud recibida 1
+12-05-2024 06:09:46 - Usuario invalido
+12-05-2024 06:10:33 - Solicitud recibida 1
+12-05-2024 06:10:33 - Usuario invalido
+12-05-2024 06:13:09 - Solicitud recibida 1
+12-05-2024 06:13:09 - Usuario invalido
+12-05-2024 06:13:36 - Solicitud recibida 1
+12-05-2024 06:13:36 - Usuario invalido
+12-05-2024 06:13:38 - Solicitud recibida 1
+12-05-2024 06:13:38 - Usuario invalido
+12-05-2024 06:13:56 - Solicitud recibida 1
+12-05-2024 06:13:56 - Usuario invalido
+12-05-2024 06:14:21 - Solicitud recibida 1
+12-05-2024 06:14:21 - Usuario invalido
+12-05-2024 06:17:10 - Solicitud recibida 1
+12-05-2024 06:17:10 - Usuario invalido
+12-05-2024 06:17:13 - Solicitud recibida 1
+12-05-2024 06:17:13 - Usuario invalido
+12-05-2024 06:17:38 - Solicitud recibida 1
+12-05-2024 06:17:38 - Usuario invalido
+12-05-2024 06:19:41 - Solicitud recibida 1
+12-05-2024 06:19:41 - Usuario invalido
+12-05-2024 06:20:18 - Solicitud recibida 1
+12-05-2024 06:20:18 - Usuario invalido
+12-05-2024 06:20:50 - Solicitud recibida 1
+12-05-2024 06:20:50 - Usuario invalido
+12-05-2024 06:21:44 - Solicitud recibida 1
+12-05-2024 06:21:44 - Usuario invalido
+12-05-2024 06:21:49 - Solicitud recibida 1
+12-05-2024 06:21:49 - Usuario invalido
+25-05-2024 12:58:15 - Datos de regreso http://frontend   
+25-05-2024 13:02:06 - Solicitud recibida 1
+25-05-2024 13:02:06 - Usuario invalido
+25-05-2024 13:19:03 - Solicitud recibida 1
+44
+25-05-2024 13:19:03 - Usuario valido Array
+25-05-2024 13:22:47 - Solicitud recibida 1
+44
+25-05-2024 13:22:47 - Usuario valido Array
+25-05-2024 13:22:59 - Solicitud recibida 1
+44
+25-05-2024 13:22:59 - Usuario valido Array
+25-05-2024 13:24:32 - Solicitud recibida 1
+44
+25-05-2024 13:24:32 - Usuario valido 123
